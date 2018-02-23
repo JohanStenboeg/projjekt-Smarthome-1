@@ -15,7 +15,7 @@
 **5**: Når der er bevægelse ude foran døren, starter kameraet med at optage samt livestreame og sender en notification på mobilen med en stream link. Så kan man se om der er nogen foran lejligheden uanset om man er hjemme eller ej og om man skal åbne for dr licens manden eller ej.     
 
 ## Design your classes:    
-**1**: Main.java, DørLåstControl.java, SendBesked.java, BrugerDistanceFraHjem.java
+**1**: Main.java, DørLåstControl.java, SendBesked.java, BrugerDistanceFraHjem.java   
 **2**: Main.java, BrugerDistanceFraHjem.java, TændComputer.java      
 **3**: Main.java, BrugerDistanceFraHjem.java, SlukLys.java, SendBesked.java   
 **4**: Main.java, TemperaturMåler.java, TemeraturGui.java, TemperaturGuiUser.java, TemperaturDBConnector.java, ÅbenVindue.java, SkruOpForRadiator.java.     
