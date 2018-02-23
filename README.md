@@ -20,3 +20,4 @@
 **3**: Main.java, BrugerDistanceFraHjem.java, SlukLys.java, SendBesked.java   
 **4**: Main.java, TemperaturMåler.java, TemeraturGui.java, TemperaturGuiUser.java, TemperaturDBConnector.java, ÅbenVindue.java, SkruOpForRadiator.java.     
 **5**: Main.java, Bevægelsessensor.java, KameraTænd.java, KameraOptag.java, KameraStream.java, KameraSendBesked.java, KameraGUIUser.java, KameraGui.java, KameraDBConnector.java, KameraEnum.java.   
+
